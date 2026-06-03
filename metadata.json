@@ -1,0 +1,6 @@
+{
+  "name": "ভাই ভাই সমিতি",
+  "description": "একটি আধুনিক বাংলা সমিতি ব্যবস্থাপনা অ্যাপ যা আপনাকে গরুর তহবিল ও মাসিক সঞ্চয় ট্র্যাক করতে সহায়তা করবে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
